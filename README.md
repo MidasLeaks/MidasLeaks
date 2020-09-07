@@ -1,16 +1,20 @@
-### Hi there 👋
+# Curent Work
 
-<!--
-**MidasLeaks/MidasLeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm currently working at IslandGames Studio
+-I'm currently working on Arms Race [learn more](http://islandgamesstudio.tk).
 
-Here are some ideas to get you started:
+## Arms Race FAQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-What Is Arms Race? 
+Arms Race is an online multiplayer first-person shooter with competitive team based game play.
+
+-What Game engine does Arms Race use?
+Arms Race is built with [Unreal Engine 4](https://unrealengine.com/).
+
+-Where do I get Arms Race?
+Arms Race isn't available yet...but it will be launching on [Steam](https://store.steampowered.com/).
+
+-What platforms will Arms Race be available on?
+The game will initially launch for PC with possible ports to Console in the future.
+
+Please make sure to update tests as appropriate.
