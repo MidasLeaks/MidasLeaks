@@ -1,6 +1,7 @@
 # Curent Work
 
 -I'm currently working at IslandGames Studio
+
 -I'm currently working on Arms Race [learn more](http://islandgamesstudio.tk).
 
 ## Arms Race FAQ
